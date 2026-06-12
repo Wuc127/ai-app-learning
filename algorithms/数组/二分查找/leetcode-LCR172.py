@@ -1,3 +1,5 @@
+#leetcode LCR 172. 统计目标成绩的出现次数
+#https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/
 from typing import List
 class Solution:
     def countTarget(self, scores: List[int], target: int) -> int:
